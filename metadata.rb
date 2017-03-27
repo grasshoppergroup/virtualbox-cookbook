@@ -1,6 +1,6 @@
 name             "virtualbox"
-maintainer       "Bradley D Smith"
-maintainer_email "bradleydsmith@gmail.com"
+maintainer       "Grasshopper / Forked from dayne/virtualbox-cookbook"
+maintainer_email ""
 license          "Apache 2.0"
 description      "Installs virtualbox"
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
